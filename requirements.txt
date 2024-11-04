@@ -86,7 +86,7 @@ pytorch-lightning==2.2.1
 pytz==2024.1
 PyYAML==6.0.1
 regex==2023.12.25
-requests==2.31.0
+requests==2.32.2
 sacrebleu==2.4.1
 safetensors==0.4.2
 scikit-learn==1.5.1
